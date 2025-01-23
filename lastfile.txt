@@ -1,0 +1,5 @@
+One file to rule them all, one file to see them fall
+
+diff 1
+
+diff 2
